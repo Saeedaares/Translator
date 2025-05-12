@@ -9,4 +9,5 @@ reportlab
 requests
 python-dotenv
 textwrap3
+streamlit-option-menu
 streamlit-lottie==0.0.7
