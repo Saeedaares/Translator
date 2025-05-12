@@ -113,14 +113,6 @@ streamlit-option-menu
 streamlit-lottie
 📁 ساختار پروژه
 
-
-1
-2
-3
-4
-5
-6
-7
 text-yar/
 ├── main.py                  # کد اصلی برنامه
 ├── fonts/
