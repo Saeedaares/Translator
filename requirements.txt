@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+deep-translator
+python-docx
+PyPDF2
+openai
+anthropic
+reportlab
+requests
+python-dotenv
+textwrap3
