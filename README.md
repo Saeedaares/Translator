@@ -52,7 +52,7 @@ cd text-yar
 bash
 
 
-1
+
 pip install -r requirements.txt
 ۳. تنظیم کلید API
 الف) در محیط توسعه:
@@ -60,8 +60,7 @@ pip install -r requirements.txt
 
 
 
-1
-2
+
 OPENAI_API_KEY=your_openai_key_here
 ANTHROPIC_API_KEY=your_claude_key_here
 ب) در Streamlit Cloud:
@@ -70,11 +69,6 @@ ANTHROPIC_API_KEY=your_claude_key_here
 toml
 
 
-1
-2
-3
-4
-5
 [openai]
 api_key = "your-openai-key"
 
@@ -84,7 +78,7 @@ api_key = "your-anthropic-key"
 bash
 
 
-1
+
 streamlit run main.py
 🌐 دیپلوی روی Streamlit Cloud
 ۱. ارسال پروژه به GitHub
@@ -103,19 +97,7 @@ URL ریپوزیتوری خود را وارد کنید.
 txt
 
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
+
 streamlit
 pytesseract
 deep-translator
